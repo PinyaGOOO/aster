@@ -1,0 +1,12 @@
+<DIALTEMPLATE> 
+<TEMPLATE MATCH="8,800......." Timeout="1"/> 
+<TEMPLATE MATCH="8,.........." Timeout="1"/> 
+<TEMPLATE MATCH="0.." Timeout="1"/> 
+<TEMPLATE MATCH="1..." Timeout="1"/> 
+<TEMPLATE MATCH="2..." Timeout="1"/> 
+<TEMPLATE MATCH="3..." Timeout="1"/> 
+<TEMPLATE MATCH="4..." Timeout="1"/> 
+<TEMPLATE MATCH="[5-7]..." Timeout="1"/> 
+<TEMPLATE MATCH="\*\*...." Timeout="0"/> 
+<TEMPLATE MATCH="*" Timeout="3"/> 
+</DIALTEMPLATE>
